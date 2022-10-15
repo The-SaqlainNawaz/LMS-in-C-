@@ -1,0 +1,7 @@
+PO909,PF,1,2
+PE898,PF,2,1
+CE565,PF,2,6
+PG787,Programming Fundamentals,1,2
+PI898,Programming Engineer,1,2
+DM123,Discrete Math,1,2
+CS134,HEllo,3,1
